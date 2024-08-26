@@ -13,9 +13,5 @@
   "dependencies": {
     "@octokit/rest": "latest",
     "nodejs-base64-converter": "latest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/arugas/gitdb.git"
   }
 }
