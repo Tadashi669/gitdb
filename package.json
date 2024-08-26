@@ -11,8 +11,8 @@
   "author": "Arugas",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^20.1.1",
-    "nodejs-base64-converter": "^1.0.5"
+    "@octokit/rest": "latest",
+    "nodejs-base64-converter": "latest"
   },
   "repository": {
     "type": "git",
