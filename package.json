@@ -4,7 +4,7 @@
   "description": "Lightweight Cloud based JSON Database",
   "homepage": "https://github.com/arugas/gitdb",
   "keywords": [ "database", "nosql", "json", "github" ],
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
